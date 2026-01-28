@@ -11,6 +11,8 @@ FastAPI
 
 MongoDB (Atlas)
 
+Docker
+
 Motor (async MongoDB driver)
 
 Pydantic
